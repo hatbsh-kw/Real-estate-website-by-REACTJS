@@ -3,5 +3,5 @@ User-agent: *
 Disallow:
 
 
-cd real-estate-website-youtube
+cd real-estate-website
 npm start
